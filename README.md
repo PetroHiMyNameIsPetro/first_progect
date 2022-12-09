@@ -1,2 +1,2 @@
-# first_progect on GitHub
+# first_projject on GitHub
 (tag)
